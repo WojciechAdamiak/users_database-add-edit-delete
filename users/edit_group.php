@@ -57,7 +57,7 @@ $namegroup = $_POST['namegroup'];
 
           <div class="col">
             <label class="form-label">ID User:</label>
-            <input type="text" class="form-control" name="idusergroup" placeholder="ID User">
+            <input type="number" class="form-control" name="idusergroup" placeholder="ID User">
           </div>
         </div>
 
